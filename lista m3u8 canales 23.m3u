@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelid"-1" name= "ARG:Locomotion" group="Argentina" logo="https://pbs.twimg.com/profile_images/641717810/4_400x400.png" tvg-country="ARG", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-2" name= "ARG:Magic_Kids" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" tvg-country="ARG", Magic Kids
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+
+
+#EXTINF:0 type="stream" channelid"-3" name= "ARG:Paka Paka" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" tvg-country="ARG", Paka Paka 
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1937929753.m3u8
+
+
+#EXTINF:0 type="stream" channelid"-4" name= "ARG:NICKELODEON" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Nickelodeon_logo.png" tvg-country="ARG", Nick Clasic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
+
+
+#EXTINF:0 type="stream" channelid"-5" name= "ARG:NUEVE_LITORAL" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nueve_Litoral_%28Logo_2010%29.png/640px-Nueve_Litoral_%28Logo_2010%29.png" tvg-country="ARG", Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-6" name= "ARG:GenTV" group="Argentina" logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png" tvg-country="ARG", GenTV
+https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-7" name= "ARG:Telefe Rosario" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" tvg-country="ARG", Telefe Rosarios
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-24" name= "ARG:Retro play" group="Argentina" logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" tvg-country="ARG", Retro Play
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+
+#EXTINF:0 type="stream" channelid"-8" name= "ARG:El Chavo" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" tvg-country="ARG", El Chavo 24/7
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w276108685.m3u8
+
+
+#EXTINF:-1,Paramount Network
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 type="stream" channelid"-9" name= "ARG:IP Información Periodística" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" tvg-country="ARG", IP Periodismo
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-0 type="stream" channelid"-10" name= "ARG:Multivision" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Multivisi%C3%B3n_Cuba.svg/800px-Multivisi%C3%B3n_Cuba.svg.png" tvg-country="ARG", Multivision
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-11" name= "ARG:NET TV" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-country="ARG", NET TV
+https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-12" name= "ARG:Music TOP" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/MUSICTOP2020.png" tvg-country="ARG", Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-13" name= "ARG:los simpson" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_logo_simpsons_yellow.svg/800px-The_logo_simpsons_yellow.svg.png" tvg-country="ARG", Los simpson 24/7
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-14" name= "ARG:Renwind TV" group="Argentina" logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" tvg-country="ARG", Renwind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-15" name= "ARG:Canal 9 de Resistencia" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png/640px-Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" tvg-country="ARG", Canal 9 de Resistencia
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-16" name= "ARG:Azahares Radio Multimedia" group="Argentina" logo="https://lh3.googleusercontent.com/-pa7E6wFqHUQ/X8burCyCcNI/AAAAAAAA73k/bxcPtP_8N20ieC7NSjb7LUTvpCRjwj7fwCK8BGAsYHg/s0/2020-12-01.png" tvg-country="ARG", Azahares Radio Multimedia | AR
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-17" name= "ARG:Canal 79 Mar del Plata" group="Argentina" logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png" tvg-country="ARG", CANAL 79 Mar del Plata
+https://5f6e1fe8f2d2e.streamlock.net:443/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-18" name= "ARG:Fenix" group="Argentina" logo="https://lh3.googleusercontent.com/-fhoBObfmdBw/X1TJdJ96f9I/AAAAAAAA5Tg/3qjeTFvwEsYxbbbFQ8gxPJv-bI-MpVefwCK8BGAsYHg/s0/2020-09-06.jpg" tvg-country="ARG", Fenix
+https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-19" name= "ARG:Telecreativa" group="Argentina" logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" tvg-country="ARG", Telecreativa
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-20" name= "ARG:Telesol San Juan" group="Argentina" logo="https://lh3.googleusercontent.com/-kqLdYrubS-E/XrYRPU5mXnI/AAAAAAAA0i8/3PSW9Gmz1BQk0Q3Xxa6Kjm5j2bldqpRWwCK8BGAsYHg/s0/2020-05-08.png" tvg-country="ARG", Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-21" name= "ARG:Retro Radio Musica" group="Argentina" logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png" tvg-country="ARG", Retro Radio Musica
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-22" name= "ARG:Zapping Music" group="Argentina" logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png" tvg-country="ARG", Zapping Music 
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:0 type="stream" channelid"-23" name= "ARG:ANIME ZONE TV" group="Argentina" logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" tvg-country="ARG", ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
